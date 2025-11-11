@@ -45,6 +45,8 @@ Includes several classic fractals and the ability to create your own L-systems w
 | 4   | Run custom L-system      |
 | W   | Grow the fractal         |
 | S   | Shrink or reverse growth |
+| A, D | Сhanging the angle of the Pythagorean tree |
+| Mouse Scroll   | Сhanging the color and increasing/decreasing the Serbian triangle |
 | ESC | Quit the current fractal |
 
 ---
